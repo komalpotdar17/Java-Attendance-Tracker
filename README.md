@@ -17,9 +17,5 @@ This Java-based desktop application is designed to track attendance for students
 - **GUI**: AWT and Swing
 - **Database**: MySQL
 
-### Prerequisites
 
-- Java Development Kit (JDK) 8 or higher
-- MySQL Database
-- An IDE (e.g., IntelliJ IDEA, Eclipse)
 
